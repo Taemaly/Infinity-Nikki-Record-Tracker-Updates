@@ -1,0 +1,3450 @@
+{
+  "catalog_version": "0.2.0-all-current-art-2026-11-02",
+  "catalog_note": "All 44 current Home album groups now have local artwork. Catalog and artwork are update-feed ready; stable album/song IDs preserve Owned and Favourite data.",
+  "albums": [
+    {
+      "id": "together_till_infinity",
+      "name": "Together Till Infinity",
+      "version": "Base / Home",
+      "cover_url": "asset:T_UI_house_record_album01.png",
+      "cover_note": "Official in-game Home record artwork",
+      "tracks": [
+        {
+          "id": "together_till_infinity_01",
+          "number": 1,
+          "name": "Together Till Infinity"
+        }
+      ],
+      "sort_order": 1,
+      "titles_complete": true
+    },
+    {
+      "id": "between_white_black",
+      "name": "Roaming Among the Keys",
+      "version": "Base / Home",
+      "cover_url": "asset:T_UI_house_record_album02.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 2,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "between_white_black_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "between_white_black_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "between_white_black_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "between_white_black_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "between_white_black_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "stardew_valley_collab",
+      "name": "Stardew Valley Encounter",
+      "version": "v1.9",
+      "cover_url": "asset:T_UI_house_record_album04.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 3,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "stardew_valley_collab_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "stardew_valley_collab_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "stardew_valley_collab_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "stardew_valley_collab_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "chromatic_beings_everbright",
+      "name": "Chromatic Beings Everbright",
+      "version": "v2.2",
+      "cover_url": "asset:T_UI_house_record_album18.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 4,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "chromatic_beings_everbright_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "chromatic_beings_everbright_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "chromatic_beings_everbright_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "chromatic_beings_everbright_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "chromatic_beings_everbright_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "echoes_of_wanxiang",
+      "name": "Echoes of Wanxiang",
+      "version": "v2.2",
+      "cover_url": "asset:T_UI_house_record_album19.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 5,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "echoes_of_wanxiang_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "echoes_of_wanxiang_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "echoes_of_wanxiang_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "echoes_of_wanxiang_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "echoes_of_wanxiang_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "echoes_of_wanxiang_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "echoes_of_wanxiang_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        },
+        {
+          "id": "echoes_of_wanxiang_08",
+          "number": 8,
+          "name": "Track 08 — name pending verification"
+        },
+        {
+          "id": "echoes_of_wanxiang_09",
+          "number": 9,
+          "name": "Track 09 — name pending verification"
+        },
+        {
+          "id": "echoes_of_wanxiang_10",
+          "number": 10,
+          "name": "Track 10 — name pending verification"
+        },
+        {
+          "id": "echoes_of_wanxiang_11",
+          "number": 11,
+          "name": "Track 11 — name pending verification"
+        },
+        {
+          "id": "echoes_of_wanxiang_12",
+          "number": 12,
+          "name": "Track 12 — name pending verification"
+        },
+        {
+          "id": "echoes_of_wanxiang_13",
+          "number": 13,
+          "name": "Track 13 — name pending verification"
+        },
+        {
+          "id": "echoes_of_wanxiang_14",
+          "number": 14,
+          "name": "Track 14 — name pending verification"
+        },
+        {
+          "id": "echoes_of_wanxiang_15",
+          "number": 15,
+          "name": "Track 15 — name pending verification"
+        },
+        {
+          "id": "echoes_of_wanxiang_16",
+          "number": 16,
+          "name": "Track 16 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "songs_flowers_wishes_01",
+      "name": "Songs of Flowers and Wishes-01",
+      "version": "Base / Wishfield",
+      "cover_url": "asset:T_UI_house_record_album03.png",
+      "cover_note": "Official in-game Home record artwork",
+      "tracks": [
+        {
+          "id": "sfw01_01",
+          "number": 1,
+          "name": "Step into Miraland"
+        },
+        {
+          "id": "sfw01_02",
+          "number": 2,
+          "name": "Infinity Begins With You"
+        },
+        {
+          "id": "sfw01_03",
+          "number": 3,
+          "name": "Nikki Nikki"
+        },
+        {
+          "id": "sfw01_04",
+          "number": 4,
+          "name": "Weaving a Dream"
+        },
+        {
+          "id": "sfw01_05",
+          "number": 5,
+          "name": "The Corner Where Wishes Sway"
+        },
+        {
+          "id": "sfw01_06",
+          "number": 6,
+          "name": "Heartfelt Whispers"
+        },
+        {
+          "id": "sfw01_07",
+          "number": 7,
+          "name": "Wishes Beneath the Eaves"
+        },
+        {
+          "id": "sfw01_08",
+          "number": 8,
+          "name": "The Wish of a New Day"
+        },
+        {
+          "id": "sfw01_09",
+          "number": 9,
+          "name": "Heartstring of a Flower"
+        },
+        {
+          "id": "sfw01_10",
+          "number": 10,
+          "name": "Within a Dream"
+        },
+        {
+          "id": "sfw01_11",
+          "number": 11,
+          "name": "Slumbering Blossoms"
+        },
+        {
+          "id": "sfw01_12",
+          "number": 12,
+          "name": "Flight of the Paper Crane"
+        },
+        {
+          "id": "sfw01_13",
+          "number": 13,
+          "name": "Good Night, My Wish"
+        },
+        {
+          "id": "sfw01_14",
+          "number": 14,
+          "name": "By the Lakeside"
+        },
+        {
+          "id": "sfw01_15",
+          "number": 15,
+          "name": "Lights by the Waterside"
+        },
+        {
+          "id": "sfw01_16",
+          "number": 16,
+          "name": "Bibcoon Dance"
+        },
+        {
+          "id": "sfw01_17",
+          "number": 17,
+          "name": "The Arrival of Whim"
+        },
+        {
+          "id": "sfw01_18",
+          "number": 18,
+          "name": "A Diligent Day"
+        },
+        {
+          "id": "sfw01_19",
+          "number": 19,
+          "name": "Dreams of Needles"
+        },
+        {
+          "id": "sfw01_20",
+          "number": 20,
+          "name": "A Spoonful of Sunshine"
+        },
+        {
+          "id": "sfw01_21",
+          "number": 21,
+          "name": "When the Birds Return"
+        },
+        {
+          "id": "sfw01_22",
+          "number": 22,
+          "name": "The Spinning Music Box"
+        },
+        {
+          "id": "sfw01_23",
+          "number": 23,
+          "name": "The Morning Song of the Daisy"
+        },
+        {
+          "id": "sfw01_24",
+          "number": 24,
+          "name": "The Duel for Cool"
+        },
+        {
+          "id": "sfw01_25",
+          "number": 25,
+          "name": "Moments of Darkness"
+        },
+        {
+          "id": "sfw01_26",
+          "number": 26,
+          "name": "Ribbit Waltz"
+        },
+        {
+          "id": "sfw01_27",
+          "number": 27,
+          "name": "Dancing in the Rain"
+        },
+        {
+          "id": "sfw01_28",
+          "number": 28,
+          "name": "Echoes of Ding-Dong"
+        },
+        {
+          "id": "sfw01_29",
+          "number": 29,
+          "name": "O Captain! My Croaker!"
+        },
+        {
+          "id": "sfw01_30",
+          "number": 30,
+          "name": "The Monroefin Jam"
+        }
+      ],
+      "sort_order": 6,
+      "titles_complete": true
+    },
+    {
+      "id": "songs_flowers_wishes_02",
+      "name": "Songs of Flowers and Wishes-02",
+      "version": "Base / Wishfield",
+      "cover_url": "asset:T_UI_house_record_album03.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 7,
+      "titles_complete": true,
+      "tracks": [
+        {
+          "id": "songs_flowers_wishes_02_01",
+          "number": 1,
+          "name": "The Cradle of Wishes"
+        },
+        {
+          "id": "songs_flowers_wishes_02_02",
+          "number": 2,
+          "name": "To the Heart of Wishes"
+        },
+        {
+          "id": "songs_flowers_wishes_02_03",
+          "number": 3,
+          "name": "Falling into a Dream"
+        },
+        {
+          "id": "songs_flowers_wishes_02_04",
+          "number": 4,
+          "name": "Hidden Wishes"
+        },
+        {
+          "id": "songs_flowers_wishes_02_05",
+          "number": 5,
+          "name": "Where Wishes Lay"
+        },
+        {
+          "id": "songs_flowers_wishes_02_06",
+          "number": 6,
+          "name": "Find My Way"
+        },
+        {
+          "id": "songs_flowers_wishes_02_07",
+          "number": 7,
+          "name": "A Poem Faraway"
+        },
+        {
+          "id": "songs_flowers_wishes_02_08",
+          "number": 8,
+          "name": "Catching Bugs"
+        },
+        {
+          "id": "songs_flowers_wishes_02_09",
+          "number": 9,
+          "name": "Nocturnal Murmurs"
+        },
+        {
+          "id": "songs_flowers_wishes_02_10",
+          "number": 10,
+          "name": "Touched By a Breeze"
+        },
+        {
+          "id": "songs_flowers_wishes_02_11",
+          "number": 11,
+          "name": "Homeward Breeze"
+        },
+        {
+          "id": "songs_flowers_wishes_02_12",
+          "number": 12,
+          "name": "Morning, Breezy Meadow!"
+        },
+        {
+          "id": "songs_flowers_wishes_02_13",
+          "number": 13,
+          "name": "A Soft Evening Breeze"
+        },
+        {
+          "id": "songs_flowers_wishes_02_14",
+          "number": 14,
+          "name": "The Leisureely Anglers"
+        },
+        {
+          "id": "songs_flowers_wishes_02_15",
+          "number": 15,
+          "name": "Breezes in the Meadow"
+        },
+        {
+          "id": "songs_flowers_wishes_02_16",
+          "number": 16,
+          "name": "Sleeping in the Meadow"
+        },
+        {
+          "id": "songs_flowers_wishes_02_17",
+          "number": 17,
+          "name": "Gates of the Palace Ruins"
+        },
+        {
+          "id": "songs_flowers_wishes_02_18",
+          "number": 18,
+          "name": "Faded Dreams of the Ruins"
+        },
+        {
+          "id": "songs_flowers_wishes_02_19",
+          "number": 19,
+          "name": "Silent Ruins"
+        },
+        {
+          "id": "songs_flowers_wishes_02_20",
+          "number": 20,
+          "name": "When the Fog Breaks"
+        },
+        {
+          "id": "songs_flowers_wishes_02_21",
+          "number": 21,
+          "name": "After the Smoke Has Cleared"
+        },
+        {
+          "id": "songs_flowers_wishes_02_22",
+          "number": 22,
+          "name": "The Bullquet's Invitation"
+        },
+        {
+          "id": "songs_flowers_wishes_02_23",
+          "number": 23,
+          "name": "Night With the Bullquet"
+        },
+        {
+          "id": "songs_flowers_wishes_02_24",
+          "number": 24,
+          "name": "The Swan's Blessing"
+        },
+        {
+          "id": "songs_flowers_wishes_02_25",
+          "number": 25,
+          "name": "Sailing Away"
+        },
+        {
+          "id": "songs_flowers_wishes_02_26",
+          "number": 26,
+          "name": "Night Mooring"
+        },
+        {
+          "id": "songs_flowers_wishes_02_27",
+          "number": 27,
+          "name": "Time Goes On"
+        },
+        {
+          "id": "songs_flowers_wishes_02_28",
+          "number": 28,
+          "name": "Distant Traces"
+        },
+        {
+          "id": "songs_flowers_wishes_02_29",
+          "number": 29,
+          "name": "Among the Ruins"
+        },
+        {
+          "id": "songs_flowers_wishes_02_30",
+          "number": 30,
+          "name": "Traces of a Distant Memory"
+        },
+        {
+          "id": "songs_flowers_wishes_02_31",
+          "number": 31,
+          "name": "The Vow of the Guardian"
+        },
+        {
+          "id": "songs_flowers_wishes_02_32",
+          "number": 32,
+          "name": "Song of the Open Fields"
+        },
+        {
+          "id": "songs_flowers_wishes_02_33",
+          "number": 33,
+          "name": "The Journey Home"
+        },
+        {
+          "id": "songs_flowers_wishes_02_34",
+          "number": 34,
+          "name": "A Dance of Elegance"
+        }
+      ]
+    },
+    {
+      "id": "stonewoods_silvergale_01",
+      "name": "Stonewoods and the Silvergale-01",
+      "version": "Base / Wishfield",
+      "cover_url": "asset:T_UI_house_record_album06.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 8,
+      "titles_complete": true,
+      "tracks": [
+        {
+          "id": "stonewoods_silvergale_01_01",
+          "number": 1,
+          "name": "Wandering in Stonewoods"
+        },
+        {
+          "id": "stonewoods_silvergale_01_02",
+          "number": 2,
+          "name": "Musings of the Evening Breeze"
+        },
+        {
+          "id": "stonewoods_silvergale_01_03",
+          "number": 3,
+          "name": "The Bustling Morning Market"
+        },
+        {
+          "id": "stonewoods_silvergale_01_04",
+          "number": 4,
+          "name": "The Evening Market"
+        },
+        {
+          "id": "stonewoods_silvergale_01_05",
+          "number": 5,
+          "name": "The Blessing of the Lavenfringe"
+        },
+        {
+          "id": "stonewoods_silvergale_01_06",
+          "number": 6,
+          "name": "Dreams of Flowers and Sheep"
+        },
+        {
+          "id": "stonewoods_silvergale_01_07",
+          "number": 7,
+          "name": "The Symphony of Weaving"
+        },
+        {
+          "id": "stonewoods_silvergale_01_08",
+          "number": 8,
+          "name": "The Silvergale's Blessing"
+        },
+        {
+          "id": "stonewoods_silvergale_01_09",
+          "number": 9,
+          "name": "Tales of Rockfall Valley"
+        },
+        {
+          "id": "stonewoods_silvergale_01_10",
+          "number": 10,
+          "name": "A Distant Land With No Return"
+        }
+      ]
+    },
+    {
+      "id": "stonewoods_silvergale_02",
+      "name": "Stonewoods and the Silvergale-02",
+      "version": "Base / Wishfield",
+      "cover_url": "asset:T_UI_house_record_album06.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 9,
+      "titles_complete": true,
+      "tracks": [
+        {
+          "id": "stonewoods_silvergale_02_01",
+          "number": 1,
+          "name": "Golden Fields"
+        },
+        {
+          "id": "stonewoods_silvergale_02_02",
+          "number": 2,
+          "name": "Yesterday's Harvest"
+        },
+        {
+          "id": "stonewoods_silvergale_02_03",
+          "number": 3,
+          "name": "Fields Serenade"
+        },
+        {
+          "id": "stonewoods_silvergale_02_04",
+          "number": 4,
+          "name": "The Scarecrow's Dream"
+        },
+        {
+          "id": "stonewoods_silvergale_02_05",
+          "number": 5,
+          "name": "Fragrant Ripples"
+        },
+        {
+          "id": "stonewoods_silvergale_02_06",
+          "number": 6,
+          "name": "Fragrances of Days Gone By"
+        },
+        {
+          "id": "stonewoods_silvergale_02_07",
+          "number": 7,
+          "name": "Brewing in Tranquility"
+        },
+        {
+          "id": "stonewoods_silvergale_02_08",
+          "number": 8,
+          "name": "A Small Sip"
+        },
+        {
+          "id": "stonewoods_silvergale_02_09",
+          "number": 9,
+          "name": "The Call of Joy"
+        },
+        {
+          "id": "stonewoods_silvergale_02_10",
+          "number": 10,
+          "name": "Dancing With Joy"
+        },
+        {
+          "id": "stonewoods_silvergale_02_11",
+          "number": 11,
+          "name": "Listening to a Faraway Tale"
+        },
+        {
+          "id": "stonewoods_silvergale_02_12",
+          "number": 12,
+          "name": "The Curtain Call"
+        },
+        {
+          "id": "stonewoods_silvergale_02_13",
+          "number": 13,
+          "name": "When Happiness Is No More"
+        },
+        {
+          "id": "stonewoods_silvergale_02_14",
+          "number": 14,
+          "name": "A Restless Night"
+        },
+        {
+          "id": "stonewoods_silvergale_02_15",
+          "number": 15,
+          "name": "Choo-Choo, the Whistle Blows"
+        },
+        {
+          "id": "stonewoods_silvergale_02_16",
+          "number": 16,
+          "name": "Awaiting the Next Stop"
+        },
+        {
+          "id": "stonewoods_silvergale_02_17",
+          "number": 17,
+          "name": "The Empty Platform"
+        },
+        {
+          "id": "stonewoods_silvergale_02_18",
+          "number": 18,
+          "name": "The Last Train"
+        },
+        {
+          "id": "stonewoods_silvergale_02_19",
+          "number": 19,
+          "name": "Choo-Choo Station Mystery"
+        },
+        {
+          "id": "stonewoods_silvergale_02_20",
+          "number": 20,
+          "name": "The Night the Train Stopped"
+        },
+        {
+          "id": "stonewoods_silvergale_02_21",
+          "number": 21,
+          "name": "The Forgotten"
+        },
+        {
+          "id": "stonewoods_silvergale_02_22",
+          "number": 22,
+          "name": "Mending Fabric, Mending Lives"
+        },
+        {
+          "id": "stonewoods_silvergale_02_23",
+          "number": 23,
+          "name": "An Endless Search"
+        },
+        {
+          "id": "stonewoods_silvergale_02_24",
+          "number": 24,
+          "name": "The Silent Old Village"
+        },
+        {
+          "id": "stonewoods_silvergale_02_25",
+          "number": 25,
+          "name": "To Forget or to Remember"
+        },
+        {
+          "id": "stonewoods_silvergale_02_26",
+          "number": 26,
+          "name": "A Wish Unfulfilled"
+        },
+        {
+          "id": "stonewoods_silvergale_02_27",
+          "number": 27,
+          "name": "Floral Gliding: Wishes"
+        },
+        {
+          "id": "stonewoods_silvergale_02_28",
+          "number": 28,
+          "name": "Floral Gliding: Bliss"
+        },
+        {
+          "id": "stonewoods_silvergale_02_29",
+          "number": 29,
+          "name": "A Treacherous Storm"
+        },
+        {
+          "id": "stonewoods_silvergale_02_30",
+          "number": 30,
+          "name": "The Storm Unleashed"
+        },
+        {
+          "id": "stonewoods_silvergale_02_31",
+          "number": 31,
+          "name": "To the Pinnacle: Stonecrown!"
+        },
+        {
+          "id": "stonewoods_silvergale_02_32",
+          "number": 32,
+          "name": "A Thousand Year Vigil"
+        },
+        {
+          "id": "stonewoods_silvergale_02_33",
+          "number": 33,
+          "name": "Legends in the Wind"
+        },
+        {
+          "id": "stonewoods_silvergale_02_34",
+          "number": 34,
+          "name": "Night of the Silvergale"
+        },
+        {
+          "id": "stonewoods_silvergale_02_35",
+          "number": 35,
+          "name": "The Fall of Stonecrown"
+        },
+        {
+          "id": "stonewoods_silvergale_02_36",
+          "number": 36,
+          "name": "The Coming of the Storm"
+        },
+        {
+          "id": "stonewoods_silvergale_02_37",
+          "number": 37,
+          "name": "A Golden Harvest"
+        }
+      ]
+    },
+    {
+      "id": "stonewoods_silvergale_03",
+      "name": "Stonewoods and the Silvergale-03",
+      "version": "Base / Wishfield",
+      "cover_url": "asset:T_UI_house_record_album06.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 10,
+      "titles_complete": true,
+      "tracks": [
+        {
+          "id": "stonewoods_silvergale_03_01",
+          "number": 1,
+          "name": "Windmill in the Breeze"
+        },
+        {
+          "id": "stonewoods_silvergale_03_02",
+          "number": 2,
+          "name": "The Grinding Mill"
+        },
+        {
+          "id": "stonewoods_silvergale_03_03",
+          "number": 3,
+          "name": "Fragrances in the Wind"
+        },
+        {
+          "id": "stonewoods_silvergale_03_04",
+          "number": 4,
+          "name": "Stellar Fishing Ground"
+        },
+        {
+          "id": "stonewoods_silvergale_03_05",
+          "number": 5,
+          "name": "Journey to Prosperity"
+        },
+        {
+          "id": "stonewoods_silvergale_03_06",
+          "number": 6,
+          "name": "Stonewoods Touring"
+        },
+        {
+          "id": "stonewoods_silvergale_03_07",
+          "number": 7,
+          "name": "The First Ripple"
+        },
+        {
+          "id": "stonewoods_silvergale_03_08",
+          "number": 8,
+          "name": "A Feast of Fragrances"
+        },
+        {
+          "id": "stonewoods_silvergale_03_09",
+          "number": 9,
+          "name": "Fast Forward"
+        },
+        {
+          "id": "stonewoods_silvergale_03_10",
+          "number": 10,
+          "name": "Echoes of the Cellar"
+        },
+        {
+          "id": "stonewoods_silvergale_03_11",
+          "number": 11,
+          "name": "Ripples in Time"
+        },
+        {
+          "id": "stonewoods_silvergale_03_12",
+          "number": 12,
+          "name": "Lingering Fragrances"
+        },
+        {
+          "id": "stonewoods_silvergale_03_13",
+          "number": 13,
+          "name": "The Ghost Train"
+        },
+        {
+          "id": "stonewoods_silvergale_03_14",
+          "number": 14,
+          "name": "Ghosts at Play"
+        },
+        {
+          "id": "stonewoods_silvergale_03_15",
+          "number": 15,
+          "name": "Ghost Train in Silence"
+        },
+        {
+          "id": "stonewoods_silvergale_03_16",
+          "number": 16,
+          "name": "The Ghost Dance"
+        },
+        {
+          "id": "stonewoods_silvergale_03_17",
+          "number": 17,
+          "name": "Stop the Train!"
+        },
+        {
+          "id": "stonewoods_silvergale_03_18",
+          "number": 18,
+          "name": "The Aureum Vase"
+        },
+        {
+          "id": "stonewoods_silvergale_03_19",
+          "number": 19,
+          "name": "Among Pieceys"
+        },
+        {
+          "id": "stonewoods_silvergale_03_20",
+          "number": 20,
+          "name": "Groove Along!"
+        },
+        {
+          "id": "stonewoods_silvergale_03_21",
+          "number": 21,
+          "name": "Wishes Under a Starry Sky"
+        }
+      ]
+    },
+    {
+      "id": "promise_aurosa_01",
+      "name": "The Promise of the Aurosa and the Dawn: 01",
+      "version": "Base / Wishfield",
+      "cover_url": "asset:T_UI_house_record_album08.png",
+      "cover_note": "Official in-game Home record artwork",
+      "tracks": [
+        {
+          "id": "pa01_01",
+          "number": 1,
+          "name": "A Small Invitation"
+        },
+        {
+          "id": "pa01_02",
+          "number": 2,
+          "name": "Daylight at the Grand Millewish Tree"
+        },
+        {
+          "id": "pa01_03",
+          "number": 3,
+          "name": "Night Whispers of the Grand Millewish Tree"
+        },
+        {
+          "id": "pa01_04",
+          "number": 4,
+          "name": "Every Minute, Every Second, Every Wish"
+        },
+        {
+          "id": "pa01_05",
+          "number": 5,
+          "name": "Every Hour, Every Instant, Every Whim"
+        },
+        {
+          "id": "pa01_06",
+          "number": 6,
+          "name": "Wishes Never Sleep"
+        },
+        {
+          "id": "pa01_07",
+          "number": 7,
+          "name": "First, The Foundation"
+        },
+        {
+          "id": "pa01_08",
+          "number": 8,
+          "name": "Serenade Of Masks And Comforters"
+        },
+        {
+          "id": "pa01_09",
+          "number": 9,
+          "name": "Whistling By The Stream"
+        },
+        {
+          "id": "pa01_10",
+          "number": 10,
+          "name": "Traces of Wishes in the Wind"
+        },
+        {
+          "id": "pa01_11",
+          "number": 11,
+          "name": "Stars and Our Reflections"
+        },
+        {
+          "id": "pa01_12",
+          "number": 12,
+          "name": "Where Do the Fireflies Go?"
+        },
+        {
+          "id": "pa01_13",
+          "number": 13,
+          "name": "Little Neighbors Among The Leaves"
+        },
+        {
+          "id": "pa01_14",
+          "number": 14,
+          "name": "Strolling Through the Shade"
+        },
+        {
+          "id": "pa01_15",
+          "number": 15,
+          "name": "Singing Alongside Wishes"
+        },
+        {
+          "id": "pa01_16",
+          "number": 16,
+          "name": "Silently Sprouting Wishes"
+        },
+        {
+          "id": "pa01_17",
+          "number": 17,
+          "name": "Plucking Stars for Leaves"
+        }
+      ],
+      "sort_order": 11,
+      "titles_complete": true
+    },
+    {
+      "id": "promise_aurosa_02",
+      "name": "The Promise of the Aurosa and the Dawn: 02",
+      "version": "Base / Wishfield",
+      "cover_url": "asset:T_UI_house_record_album08.png",
+      "cover_note": "Official in-game Home record artwork",
+      "tracks": [
+        {
+          "id": "pa02_01",
+          "number": 1,
+          "name": "Sanctuary Of Wishes"
+        },
+        {
+          "id": "pa02_02",
+          "number": 2,
+          "name": "To Wish for the Aurosa"
+        },
+        {
+          "id": "pa02_03",
+          "number": 3,
+          "name": "Stars and Wishes"
+        },
+        {
+          "id": "pa02_04",
+          "number": 4,
+          "name": "Long Scroll of Wishes"
+        },
+        {
+          "id": "pa02_05",
+          "number": 5,
+          "name": "At Ease, Get Ready, And Go!"
+        },
+        {
+          "id": "pa02_06",
+          "number": 6,
+          "name": "Work Hard and Forge Ahead"
+        },
+        {
+          "id": "pa02_07",
+          "number": 7,
+          "name": "Eyes of the Night Watch"
+        },
+        {
+          "id": "pa02_08",
+          "number": 8,
+          "name": "Keeping Watch Through the Night"
+        },
+        {
+          "id": "pa02_09",
+          "number": 9,
+          "name": "Aurosa Valley"
+        },
+        {
+          "id": "pa02_10",
+          "number": 10,
+          "name": "A Splendid Celebration"
+        },
+        {
+          "id": "pa02_11",
+          "number": 11,
+          "name": "Vibrant Preparations"
+        },
+        {
+          "id": "pa02_12",
+          "number": 12,
+          "name": "May You Shine Like a Star"
+        },
+        {
+          "id": "pa02_13",
+          "number": 13,
+          "name": "The Birth of Innocence"
+        },
+        {
+          "id": "pa02_14",
+          "number": 14,
+          "name": "Breath of the Stars"
+        },
+        {
+          "id": "pa02_15",
+          "number": 15,
+          "name": "Returning to a Starry Night"
+        },
+        {
+          "id": "pa02_16",
+          "number": 16,
+          "name": "Secret Of The Bizarre Taste"
+        },
+        {
+          "id": "pa02_17",
+          "number": 17,
+          "name": "Traces Of A Wish"
+        },
+        {
+          "id": "pa02_18",
+          "number": 18,
+          "name": "Swordsmith Ruins"
+        },
+        {
+          "id": "pa02_19",
+          "number": 19,
+          "name": "A Night as Long as Rus"
+        }
+      ],
+      "sort_order": 12,
+      "titles_complete": true
+    },
+    {
+      "id": "promise_aurosa_03",
+      "name": "The Promise of the Aurosa and the Dawn: 03",
+      "version": "Base / Wishfield",
+      "cover_url": "asset:T_UI_house_record_album08.png",
+      "cover_note": "Official in-game Home record artwork",
+      "tracks": [
+        {
+          "id": "pa03_01",
+          "number": 1,
+          "name": "Hidden Wishes"
+        },
+        {
+          "id": "pa03_02",
+          "number": 2,
+          "name": "Welcome, Wishes!"
+        },
+        {
+          "id": "pa03_03",
+          "number": 3,
+          "name": "Old Pages, New Chapters"
+        },
+        {
+          "id": "pa03_04",
+          "number": 4,
+          "name": "Hidden Despair"
+        },
+        {
+          "id": "pa03_05",
+          "number": 5,
+          "name": "Fingertips Touching Dreams"
+        },
+        {
+          "id": "pa03_06",
+          "number": 6,
+          "name": "Guess The Perfume's Final Note!"
+        },
+        {
+          "id": "pa03_07",
+          "number": 7,
+          "name": "One Pump Of Foundation, One Pump Of Joy"
+        },
+        {
+          "id": "pa03_08",
+          "number": 8,
+          "name": "Blinking Jazzy Lashes"
+        },
+        {
+          "id": "pa03_09",
+          "number": 9,
+          "name": "A Sheathed Sword"
+        },
+        {
+          "id": "pa03_10",
+          "number": 10,
+          "name": "Tempered By Wind And Fire"
+        },
+        {
+          "id": "pa03_11",
+          "number": 11,
+          "name": "Eternal Dawn"
+        },
+        {
+          "id": "pa03_12",
+          "number": 12,
+          "name": "Echoes Of The Forge"
+        },
+        {
+          "id": "pa03_13",
+          "number": 13,
+          "name": "Immortal Through A Thousand Strikes"
+        },
+        {
+          "id": "pa03_14",
+          "number": 14,
+          "name": "Endless Dawn"
+        },
+        {
+          "id": "pa03_15",
+          "number": 15,
+          "name": "Long Time No See, Knight"
+        },
+        {
+          "id": "pa03_16",
+          "number": 16,
+          "name": "A Serenade to the Stars"
+        },
+        {
+          "id": "pa03_17",
+          "number": 17,
+          "name": "The Dawn Fox Beside You"
+        },
+        {
+          "id": "pa03_18",
+          "number": 18,
+          "name": "The Dawn Fox Shines Because of You"
+        },
+        {
+          "id": "pa03_19",
+          "number": 19,
+          "name": "Faith, Beyond Lies!"
+        },
+        {
+          "id": "pa03_20",
+          "number": 20,
+          "name": "Faith, Shattering Despair!"
+        }
+      ],
+      "sort_order": 13,
+      "titles_complete": true
+    },
+    {
+      "id": "wish_upon_shooting_star",
+      "name": "Star-Kissed Wishes",
+      "version": "v1.1",
+      "cover_url": "asset:T_UI_house_record_album15.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 14,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "wish_upon_shooting_star_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "wish_upon_shooting_star_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "wish_upon_shooting_star_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "wish_upon_shooting_star_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "wish_upon_shooting_star_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "wish_upon_shooting_star_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "wish_upon_shooting_star_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        },
+        {
+          "id": "wish_upon_shooting_star_08",
+          "number": 8,
+          "name": "Track 08 — name pending verification"
+        },
+        {
+          "id": "wish_upon_shooting_star_09",
+          "number": 9,
+          "name": "Track 09 — name pending verification"
+        },
+        {
+          "id": "wish_upon_shooting_star_10",
+          "number": 10,
+          "name": "Track 10 — name pending verification"
+        },
+        {
+          "id": "wish_upon_shooting_star_11",
+          "number": 11,
+          "name": "Track 11 — name pending verification"
+        },
+        {
+          "id": "wish_upon_shooting_star_12",
+          "number": 12,
+          "name": "Track 12 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "starburst_new_year_01",
+      "name": "Starburst for the New Year: 01",
+      "version": "v1.2",
+      "cover_url": "asset:T_UI_house_record_album17.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 15,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "starburst_new_year_01_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_01_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_01_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_01_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_01_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_01_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_01_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_01_08",
+          "number": 8,
+          "name": "Track 08 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_01_09",
+          "number": 9,
+          "name": "Track 09 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_01_10",
+          "number": 10,
+          "name": "Track 10 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_01_11",
+          "number": 11,
+          "name": "Track 11 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_01_12",
+          "number": 12,
+          "name": "Track 12 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_01_13",
+          "number": 13,
+          "name": "Track 13 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_01_14",
+          "number": 14,
+          "name": "Track 14 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "starburst_new_year_02",
+      "name": "Starburst for the New Year: 02",
+      "version": "v1.2",
+      "cover_url": "asset:T_UI_house_record_album17.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 16,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "starburst_new_year_02_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_02_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_02_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_02_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_02_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_02_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_02_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_02_08",
+          "number": 8,
+          "name": "Track 08 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_02_09",
+          "number": 9,
+          "name": "Track 09 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_02_10",
+          "number": 10,
+          "name": "Track 10 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_02_11",
+          "number": 11,
+          "name": "Track 11 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_02_12",
+          "number": 12,
+          "name": "Track 12 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_02_13",
+          "number": 13,
+          "name": "Track 13 — name pending verification"
+        },
+        {
+          "id": "starburst_new_year_02_14",
+          "number": 14,
+          "name": "Track 14 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "queens_lament",
+      "name": "The Queen's Lament",
+      "version": "v1.3",
+      "cover_url": "asset:T_UI_house_record_album02.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 17,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "queens_lament_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "queens_lament_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "queens_lament_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "queens_lament_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "queens_lament_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "queens_lament_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "queens_lament_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        },
+        {
+          "id": "queens_lament_08",
+          "number": 8,
+          "name": "Track 08 — name pending verification"
+        },
+        {
+          "id": "queens_lament_09",
+          "number": 9,
+          "name": "Track 09 — name pending verification"
+        },
+        {
+          "id": "queens_lament_10",
+          "number": 10,
+          "name": "Track 10 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "wish_carnival_party",
+      "name": "Wish Carnival Party",
+      "version": "v1.4",
+      "cover_url": "asset:T_UI_house_record_album21.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 18,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "wish_carnival_party_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "wish_carnival_party_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "wish_carnival_party_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "wish_carnival_party_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "wish_carnival_party_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "wish_carnival_party_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "wish_carnival_party_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "echoes_of_stars",
+      "name": "Echoes of the Stars",
+      "version": "v1.5",
+      "cover_url": "asset:T_UI_house_record_album26.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 19,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "echoes_of_stars_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "echoes_of_stars_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "echoes_of_stars_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "journey_born_from_end",
+      "name": "A Journey Born from the End",
+      "version": "v1.5",
+      "cover_url": "asset:T_UI_house_record_album27.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 20,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "journey_born_from_end_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_08",
+          "number": 8,
+          "name": "Track 08 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_09",
+          "number": 9,
+          "name": "Track 09 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_10",
+          "number": 10,
+          "name": "Track 10 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_11",
+          "number": 11,
+          "name": "Track 11 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_12",
+          "number": 12,
+          "name": "Track 12 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_13",
+          "number": 13,
+          "name": "Track 13 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_14",
+          "number": 14,
+          "name": "Track 14 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_15",
+          "number": 15,
+          "name": "Track 15 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_16",
+          "number": 16,
+          "name": "Track 16 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_17",
+          "number": 17,
+          "name": "Track 17 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_18",
+          "number": 18,
+          "name": "Track 18 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_19",
+          "number": 19,
+          "name": "Track 19 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_20",
+          "number": 20,
+          "name": "Track 20 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_21",
+          "number": 21,
+          "name": "Track 21 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_22",
+          "number": 22,
+          "name": "Track 22 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_23",
+          "number": 23,
+          "name": "Track 23 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_24",
+          "number": 24,
+          "name": "Track 24 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_25",
+          "number": 25,
+          "name": "Track 25 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_26",
+          "number": 26,
+          "name": "Track 26 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_27",
+          "number": 27,
+          "name": "Track 27 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_28",
+          "number": 28,
+          "name": "Track 28 — name pending verification"
+        },
+        {
+          "id": "journey_born_from_end_29",
+          "number": 29,
+          "name": "Track 29 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "only_fairies_know",
+      "name": "Only the Fairies Know",
+      "version": "v1.6",
+      "cover_url": "asset:T_UI_house_record_album29.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 21,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "only_fairies_know_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "only_fairies_know_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "a_song_without_end",
+      "name": "A Song Without End",
+      "version": "v1.9",
+      "cover_url": "asset:T_UI_house_record_album05.png",
+      "cover_note": "Official in-game Home record artwork",
+      "tracks": [
+        {
+          "id": "aswe_01",
+          "number": 1,
+          "name": "To the Approaching Beyond"
+        },
+        {
+          "id": "aswe_02",
+          "number": 2,
+          "name": "Till We Meet Again"
+        },
+        {
+          "id": "aswe_03",
+          "number": 3,
+          "name": "Lament Beyond the Ashes"
+        },
+        {
+          "id": "aswe_04",
+          "number": 4,
+          "name": "Waltz of Flowers"
+        },
+        {
+          "id": "aswe_05",
+          "number": 5,
+          "name": "Off-Season Aurosa"
+        },
+        {
+          "id": "aswe_06",
+          "number": 6,
+          "name": "Lullaby of Flowers"
+        },
+        {
+          "id": "aswe_07",
+          "number": 7,
+          "name": "Echoes of Bygone Days"
+        },
+        {
+          "id": "aswe_08",
+          "number": 8,
+          "name": "Gathered in Chuckles"
+        },
+        {
+          "id": "aswe_09",
+          "number": 9,
+          "name": "Whirl of Wind and Waves"
+        },
+        {
+          "id": "aswe_10",
+          "number": 10,
+          "name": "Once We Danced"
+        },
+        {
+          "id": "aswe_11",
+          "number": 11,
+          "name": "Where Stars Rest"
+        },
+        {
+          "id": "aswe_12",
+          "number": 12,
+          "name": "Little Pathway"
+        },
+        {
+          "id": "aswe_13",
+          "number": 13,
+          "name": "Home Sweet Home"
+        },
+        {
+          "id": "aswe_14",
+          "number": 14,
+          "name": "One, Two, Pat!"
+        },
+        {
+          "id": "aswe_15",
+          "number": 15,
+          "name": "Welcome, Friends!"
+        },
+        {
+          "id": "aswe_16",
+          "number": 16,
+          "name": "The Unstoppable Super Star Cat"
+        },
+        {
+          "id": "aswe_17",
+          "number": 17,
+          "name": "Whimsicality Waits for No One"
+        },
+        {
+          "id": "aswe_18",
+          "number": 18,
+          "name": "The Chant That Shall Cross Beyond Eternity"
+        }
+      ],
+      "sort_order": 22,
+      "titles_complete": true
+    },
+    {
+      "id": "grains_of_yesterday",
+      "name": "Grains of Yesterday",
+      "version": "v1.10",
+      "cover_url": "asset:T_UI_house_record_album07.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 23,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "grains_of_yesterday_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "grains_of_yesterday_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "grains_of_yesterday_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "grains_of_yesterday_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "grains_of_yesterday_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "every_encounter_is_a_miracle",
+      "name": "Every Encounter Is a Miracle",
+      "version": "v1.11",
+      "cover_url": "asset:T_UI_house_record_album09.png",
+      "cover_note": "Official in-game Home record artwork",
+      "tracks": [
+        {
+          "id": "eeiam_01",
+          "number": 1,
+          "name": "Together Till Infinity (Acoustic Ver.)"
+        },
+        {
+          "id": "eeiam_02",
+          "number": 2,
+          "name": "Ornate Voices"
+        },
+        {
+          "id": "eeiam_03",
+          "number": 3,
+          "name": "Rustling Echoes"
+        },
+        {
+          "id": "eeiam_04",
+          "number": 4,
+          "name": "Untamed Whispers"
+        },
+        {
+          "id": "eeiam_05",
+          "number": 5,
+          "name": "Enduring Presence"
+        },
+        {
+          "id": "eeiam_06",
+          "number": 6,
+          "name": "Cooking Time"
+        }
+      ],
+      "sort_order": 24,
+      "titles_complete": true
+    },
+    {
+      "id": "prayers_vanished_land",
+      "name": "Prayers of the Vanished Land",
+      "version": "v2.0",
+      "cover_url": "asset:T_UI_house_record_album11.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 25,
+      "titles_complete": true,
+      "tracks": [
+        {
+          "id": "prayers_vanished_land_01",
+          "number": 1,
+          "name": "A Birthday Song for Nikki"
+        },
+        {
+          "id": "prayers_vanished_land_02",
+          "number": 2,
+          "name": "Legend Beneath the Vanished Land"
+        },
+        {
+          "id": "prayers_vanished_land_03",
+          "number": 3,
+          "name": "Kuna! Itzaland! (Behold! Itzaland!)"
+        },
+        {
+          "id": "prayers_vanished_land_04",
+          "number": 4,
+          "name": "Collide"
+        }
+      ]
+    },
+    {
+      "id": "wonders_of_itzaland",
+      "name": "Wonders of Itzaland",
+      "version": "v2.0",
+      "cover_url": "asset:T_UI_house_record_album14.png",
+      "cover_note": "Official in-game Home record artwork",
+      "tracks": [
+        {
+          "id": "woi_01",
+          "number": 1,
+          "name": "Prayer of the Silent"
+        },
+        {
+          "id": "woi_02",
+          "number": 2,
+          "name": "Last Request"
+        },
+        {
+          "id": "woi_03",
+          "number": 3,
+          "name": "Legacy of the Dragon"
+        },
+        {
+          "id": "woi_04",
+          "number": 4,
+          "name": "Dream of the Fireflies"
+        },
+        {
+          "id": "woi_05",
+          "number": 5,
+          "name": "Follow the Light"
+        },
+        {
+          "id": "woi_06",
+          "number": 6,
+          "name": "Up in a Dream"
+        },
+        {
+          "id": "woi_07",
+          "number": 7,
+          "name": "Vanya, Fly Away!"
+        },
+        {
+          "id": "woi_08",
+          "number": 8,
+          "name": "Pretty Shiny Things"
+        },
+        {
+          "id": "woi_09",
+          "number": 9,
+          "name": "If You Ring Its Bell"
+        },
+        {
+          "id": "woi_10",
+          "number": 10,
+          "name": "Atop the Vault"
+        },
+        {
+          "id": "woi_11",
+          "number": 11,
+          "name": "Glory of Days Gone By"
+        },
+        {
+          "id": "woi_12",
+          "number": 12,
+          "name": "Silent Honor"
+        },
+        {
+          "id": "woi_13",
+          "number": 13,
+          "name": "Ruin and Demise"
+        },
+        {
+          "id": "woi_14",
+          "number": 14,
+          "name": "After the Setting Sun"
+        },
+        {
+          "id": "woi_15",
+          "number": 15,
+          "name": "Resurgence"
+        },
+        {
+          "id": "woi_16",
+          "number": 16,
+          "name": "Lovable Little Jars"
+        }
+      ],
+      "sort_order": 26,
+      "titles_complete": true
+    },
+    {
+      "id": "songs_of_spira",
+      "name": "Songs of Spira",
+      "version": "v2.0",
+      "cover_url": "asset:T_UI_house_record_album13.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 27,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "songs_of_spira_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_08",
+          "number": 8,
+          "name": "Track 08 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_09",
+          "number": 9,
+          "name": "Track 09 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_10",
+          "number": 10,
+          "name": "Track 10 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_11",
+          "number": 11,
+          "name": "Track 11 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_12",
+          "number": 12,
+          "name": "Track 12 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_13",
+          "number": 13,
+          "name": "Track 13 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_14",
+          "number": 14,
+          "name": "Track 14 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_15",
+          "number": 15,
+          "name": "Track 15 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_16",
+          "number": 16,
+          "name": "Track 16 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_17",
+          "number": 17,
+          "name": "Track 17 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_18",
+          "number": 18,
+          "name": "Track 18 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_19",
+          "number": 19,
+          "name": "Track 19 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_20",
+          "number": 20,
+          "name": "Track 20 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_21",
+          "number": 21,
+          "name": "Track 21 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_22",
+          "number": 22,
+          "name": "Track 22 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_23",
+          "number": 23,
+          "name": "Track 23 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_24",
+          "number": 24,
+          "name": "Track 24 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_25",
+          "number": 25,
+          "name": "Track 25 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_26",
+          "number": 26,
+          "name": "Track 26 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_27",
+          "number": 27,
+          "name": "Track 27 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_28",
+          "number": 28,
+          "name": "Track 28 — name pending verification"
+        },
+        {
+          "id": "songs_of_spira_29",
+          "number": 29,
+          "name": "Track 29 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "elderwood_echoes",
+      "name": "Elderwood Echoes",
+      "version": "v2.0",
+      "cover_url": "asset:T_UI_house_record_album12.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 28,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "elderwood_echoes_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_08",
+          "number": 8,
+          "name": "Track 08 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_09",
+          "number": 9,
+          "name": "Track 09 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_10",
+          "number": 10,
+          "name": "Track 10 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_11",
+          "number": 11,
+          "name": "Track 11 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_12",
+          "number": 12,
+          "name": "Track 12 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_13",
+          "number": 13,
+          "name": "Track 13 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_14",
+          "number": 14,
+          "name": "Track 14 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_15",
+          "number": 15,
+          "name": "Track 15 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_16",
+          "number": 16,
+          "name": "Track 16 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_17",
+          "number": 17,
+          "name": "Track 17 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_18",
+          "number": 18,
+          "name": "Track 18 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_19",
+          "number": 19,
+          "name": "Track 19 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_20",
+          "number": 20,
+          "name": "Track 20 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_21",
+          "number": 21,
+          "name": "Track 21 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_22",
+          "number": 22,
+          "name": "Track 22 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_23",
+          "number": 23,
+          "name": "Track 23 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_24",
+          "number": 24,
+          "name": "Track 24 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_25",
+          "number": 25,
+          "name": "Track 25 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_26",
+          "number": 26,
+          "name": "Track 26 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_27",
+          "number": 27,
+          "name": "Track 27 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_28",
+          "number": 28,
+          "name": "Track 28 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_29",
+          "number": 29,
+          "name": "Track 29 — name pending verification"
+        },
+        {
+          "id": "elderwood_echoes_30",
+          "number": 30,
+          "name": "Track 30 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "life_as_a_poem",
+      "name": "Life as a Poem",
+      "version": "v2.1",
+      "cover_url": "asset:T_UI_house_record_album16.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 29,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "life_as_a_poem_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "life_as_a_poem_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "life_as_a_poem_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "life_as_a_poem_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "life_as_a_poem_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "uncrowned_heart",
+      "name": "Uncrowned Heart",
+      "version": "v2.3",
+      "cover_url": "asset:T_UI_house_record_album20.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 30,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "uncrowned_heart_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "uncrowned_heart_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "uncrowned_heart_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "uncrowned_heart_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "uncrowned_heart_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "uncrowned_heart_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "uncrowned_heart_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        },
+        {
+          "id": "uncrowned_heart_08",
+          "number": 8,
+          "name": "Track 08 — name pending verification"
+        },
+        {
+          "id": "uncrowned_heart_09",
+          "number": 9,
+          "name": "Track 09 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "forest_need_not_listen",
+      "name": "The Forest Need Not Listen",
+      "version": "v2.4",
+      "cover_url": "asset:T_UI_house_record_album22.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 31,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "forest_need_not_listen_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "forest_need_not_listen_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "forest_need_not_listen_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "forest_need_not_listen_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "forest_need_not_listen_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "forest_need_not_listen_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "forest_need_not_listen_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        },
+        {
+          "id": "forest_need_not_listen_08",
+          "number": 8,
+          "name": "Track 08 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "all_we_are",
+      "name": "All We Are",
+      "version": "v2.5",
+      "cover_url": "asset:T_UI_house_record_album23.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 32,
+      "titles_complete": true,
+      "tracks": [
+        {
+          "id": "all_we_are_01",
+          "number": 1,
+          "name": "All We Are"
+        }
+      ]
+    },
+    {
+      "id": "where_all_souls_return",
+      "name": "Where All Souls Return",
+      "version": "v2.5",
+      "cover_url": "asset:T_UI_house_record_album25.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 33,
+      "titles_complete": true,
+      "tracks": [
+        {
+          "id": "where_all_souls_return_01",
+          "number": 1,
+          "name": "The Eternal Cycle"
+        },
+        {
+          "id": "where_all_souls_return_02",
+          "number": 2,
+          "name": "Dew of Yesterdays"
+        },
+        {
+          "id": "where_all_souls_return_03",
+          "number": 3,
+          "name": "The Shimmering River"
+        },
+        {
+          "id": "where_all_souls_return_04",
+          "number": 4,
+          "name": "Bloomvale"
+        },
+        {
+          "id": "where_all_souls_return_05",
+          "number": 5,
+          "name": "Memories Lingering Still"
+        },
+        {
+          "id": "where_all_souls_return_06",
+          "number": 6,
+          "name": "The End of Healing"
+        },
+        {
+          "id": "where_all_souls_return_07",
+          "number": 7,
+          "name": "Elegy of Faith"
+        },
+        {
+          "id": "where_all_souls_return_08",
+          "number": 8,
+          "name": "Beneath the Tide"
+        },
+        {
+          "id": "where_all_souls_return_09",
+          "number": 9,
+          "name": "A Journey of Souls"
+        },
+        {
+          "id": "where_all_souls_return_10",
+          "number": 10,
+          "name": "For Whom We Sing"
+        },
+        {
+          "id": "where_all_souls_return_11",
+          "number": 11,
+          "name": "Steps of Quiet Repose"
+        },
+        {
+          "id": "where_all_souls_return_12",
+          "number": 12,
+          "name": "Sul va! Nakva! (O Souls, Bear Witness!)"
+        },
+        {
+          "id": "where_all_souls_return_13",
+          "number": 13,
+          "name": "Dance of Madness"
+        },
+        {
+          "id": "where_all_souls_return_14",
+          "number": 14,
+          "name": "Unsung Requiem: Advent"
+        },
+        {
+          "id": "where_all_souls_return_15",
+          "number": 15,
+          "name": "Unsung Requiem: No Return"
+        },
+        {
+          "id": "where_all_souls_return_16",
+          "number": 16,
+          "name": "Morning Wind Over Ancient Lands"
+        },
+        {
+          "id": "where_all_souls_return_17",
+          "number": 17,
+          "name": "Place of Return"
+        },
+        {
+          "id": "where_all_souls_return_18",
+          "number": 18,
+          "name": "Gathering Storm"
+        },
+        {
+          "id": "where_all_souls_return_19",
+          "number": 19,
+          "name": "The Path Beyond Return"
+        },
+        {
+          "id": "where_all_souls_return_20",
+          "number": 20,
+          "name": "To Hold Fast, To Press On"
+        },
+        {
+          "id": "where_all_souls_return_21",
+          "number": 21,
+          "name": "Tainted Salvation"
+        },
+        {
+          "id": "where_all_souls_return_22",
+          "number": 22,
+          "name": "Somewhere in the Golden City"
+        }
+      ]
+    },
+    {
+      "id": "land_slumbering_dragons",
+      "name": "Land of the Slumbering Dragons",
+      "version": "v2.5",
+      "cover_url": "asset:T_UI_house_record_album24.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 34,
+      "titles_complete": true,
+      "tracks": [
+        {
+          "id": "land_slumbering_dragons_01",
+          "number": 1,
+          "name": "Land of Dragon’s Memory"
+        },
+        {
+          "id": "land_slumbering_dragons_02",
+          "number": 2,
+          "name": "Echoes of Dragon’s Breath"
+        },
+        {
+          "id": "land_slumbering_dragons_03",
+          "number": 3,
+          "name": "Cradle of Reincarnation"
+        },
+        {
+          "id": "land_slumbering_dragons_04",
+          "number": 4,
+          "name": "Tablet of the Pact"
+        },
+        {
+          "id": "land_slumbering_dragons_05",
+          "number": 5,
+          "name": "Flow of Days"
+        },
+        {
+          "id": "land_slumbering_dragons_06",
+          "number": 6,
+          "name": "The Settlement at Rest"
+        },
+        {
+          "id": "land_slumbering_dragons_07",
+          "number": 7,
+          "name": "The Quiet Return"
+        },
+        {
+          "id": "land_slumbering_dragons_08",
+          "number": 8,
+          "name": "Soothing Songs"
+        },
+        {
+          "id": "land_slumbering_dragons_09",
+          "number": 9,
+          "name": "Night Sanctuary"
+        },
+        {
+          "id": "land_slumbering_dragons_10",
+          "number": 10,
+          "name": "Calm Luminescence"
+        },
+        {
+          "id": "land_slumbering_dragons_11",
+          "number": 11,
+          "name": "Hall of Return"
+        },
+        {
+          "id": "land_slumbering_dragons_12",
+          "number": 12,
+          "name": "Flowing Spirit"
+        },
+        {
+          "id": "land_slumbering_dragons_13",
+          "number": 13,
+          "name": "Etchings of Time"
+        },
+        {
+          "id": "land_slumbering_dragons_14",
+          "number": 14,
+          "name": "Between White and Blue"
+        },
+        {
+          "id": "land_slumbering_dragons_15",
+          "number": 15,
+          "name": "Between Quiet and Gleam"
+        },
+        {
+          "id": "land_slumbering_dragons_16",
+          "number": 16,
+          "name": "Harmonies in the Making"
+        },
+        {
+          "id": "land_slumbering_dragons_17",
+          "number": 17,
+          "name": "Whispered Teachings"
+        },
+        {
+          "id": "land_slumbering_dragons_18",
+          "number": 18,
+          "name": "Where the Tides Return"
+        },
+        {
+          "id": "land_slumbering_dragons_19",
+          "number": 19,
+          "name": "Lonestone Shore"
+        },
+        {
+          "id": "land_slumbering_dragons_20",
+          "number": 20,
+          "name": "The Last Vigil"
+        },
+        {
+          "id": "land_slumbering_dragons_21",
+          "number": 21,
+          "name": "Endless Vigil"
+        },
+        {
+          "id": "land_slumbering_dragons_22",
+          "number": 22,
+          "name": "Rippling Breath"
+        }
+      ]
+    },
+    {
+      "id": "until_tide_ends",
+      "name": "Until Tide Ends",
+      "version": "v2.6",
+      "cover_url": "asset:T_UI_house_record_album28.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 35,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "until_tide_ends_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "until_tide_ends_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "until_tide_ends_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "until_tide_ends_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "until_tide_ends_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "until_tide_ends_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "until_tide_ends_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        },
+        {
+          "id": "until_tide_ends_08",
+          "number": 8,
+          "name": "Track 08 — name pending verification"
+        },
+        {
+          "id": "until_tide_ends_09",
+          "number": 9,
+          "name": "Track 09 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "where_stars_yearn",
+      "name": "Where Stars Yearn",
+      "version": "v2.7",
+      "cover_url": "asset:T_UI_house_record_album30.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 36,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "where_stars_yearn_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "where_stars_yearn_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "where_stars_yearn_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "where_stars_yearn_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "where_stars_yearn_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "where_stars_yearn_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "every_tear_remembers",
+      "name": "Tears of Memory",
+      "version": "v1.7 / added v2.7",
+      "cover_url": "asset:T_UI_house_record_album31.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 37,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "every_tear_remembers_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "every_tear_remembers_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "every_tear_remembers_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "every_tear_remembers_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "every_tear_remembers_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "every_tear_remembers_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "every_tear_remembers_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        },
+        {
+          "id": "every_tear_remembers_08",
+          "number": 8,
+          "name": "Track 08 — name pending verification"
+        },
+        {
+          "id": "every_tear_remembers_09",
+          "number": 9,
+          "name": "Track 09 — name pending verification"
+        },
+        {
+          "id": "every_tear_remembers_10",
+          "number": 10,
+          "name": "Track 10 — name pending verification"
+        },
+        {
+          "id": "every_tear_remembers_11",
+          "number": 11,
+          "name": "Track 11 — name pending verification"
+        },
+        {
+          "id": "every_tear_remembers_12",
+          "number": 12,
+          "name": "Track 12 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "all_turns_to_life",
+      "name": "All Turns to Life",
+      "version": "v2.8",
+      "cover_url": "asset:T_UI_house_record_album35.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 38,
+      "titles_complete": true,
+      "tracks": [
+        {
+          "id": "all_turns_to_life_01",
+          "number": 1,
+          "name": "All Turns to Life"
+        }
+      ]
+    },
+    {
+      "id": "golden_dust",
+      "name": "Golden Dust",
+      "version": "v2.8",
+      "cover_url": "asset:T_UI_house_record_album34.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 39,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "golden_dust_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "golden_dust_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "golden_dust_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "golden_dust_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "golden_dust_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "golden_dust_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "golden_dust_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        },
+        {
+          "id": "golden_dust_08",
+          "number": 8,
+          "name": "Track 08 — name pending verification"
+        },
+        {
+          "id": "golden_dust_09",
+          "number": 9,
+          "name": "Track 09 — name pending verification"
+        },
+        {
+          "id": "golden_dust_10",
+          "number": 10,
+          "name": "Track 10 — name pending verification"
+        },
+        {
+          "id": "golden_dust_11",
+          "number": 11,
+          "name": "Track 11 — name pending verification"
+        },
+        {
+          "id": "golden_dust_12",
+          "number": 12,
+          "name": "Track 12 — name pending verification"
+        },
+        {
+          "id": "golden_dust_13",
+          "number": 13,
+          "name": "Track 13 — name pending verification"
+        },
+        {
+          "id": "golden_dust_14",
+          "number": 14,
+          "name": "Track 14 — name pending verification"
+        },
+        {
+          "id": "golden_dust_15",
+          "number": 15,
+          "name": "Track 15 — name pending verification"
+        },
+        {
+          "id": "golden_dust_16",
+          "number": 16,
+          "name": "Track 16 — name pending verification"
+        },
+        {
+          "id": "golden_dust_17",
+          "number": 17,
+          "name": "Track 17 — name pending verification"
+        },
+        {
+          "id": "golden_dust_18",
+          "number": 18,
+          "name": "Track 18 — name pending verification"
+        },
+        {
+          "id": "golden_dust_19",
+          "number": 19,
+          "name": "Track 19 — name pending verification"
+        },
+        {
+          "id": "golden_dust_20",
+          "number": 20,
+          "name": "Track 20 — name pending verification"
+        },
+        {
+          "id": "golden_dust_21",
+          "number": 21,
+          "name": "Track 21 — name pending verification"
+        },
+        {
+          "id": "golden_dust_22",
+          "number": 22,
+          "name": "Track 22 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "city_of_abundance",
+      "name": "City of Abundance",
+      "version": "v2.8",
+      "cover_url": "asset:T_UI_house_record_album33.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 40,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "city_of_abundance_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "city_of_abundance_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "city_of_abundance_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "city_of_abundance_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "city_of_abundance_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "city_of_abundance_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "city_of_abundance_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        },
+        {
+          "id": "city_of_abundance_08",
+          "number": 8,
+          "name": "Track 08 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "ink_falls_fate_rises",
+      "name": "Ink Falls, Fate Rises",
+      "version": "v1.8 / added v2.8",
+      "cover_url": "asset:T_UI_house_record_album32.png",
+      "cover_note": "Official in-game Home record artwork",
+      "sort_order": 41,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "ink_falls_fate_rises_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_08",
+          "number": 8,
+          "name": "Track 08 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_09",
+          "number": 9,
+          "name": "Track 09 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_10",
+          "number": 10,
+          "name": "Track 10 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_11",
+          "number": 11,
+          "name": "Track 11 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_12",
+          "number": 12,
+          "name": "Track 12 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_13",
+          "number": 13,
+          "name": "Track 13 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_14",
+          "number": 14,
+          "name": "Track 14 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_15",
+          "number": 15,
+          "name": "Track 15 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_16",
+          "number": 16,
+          "name": "Track 16 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_17",
+          "number": 17,
+          "name": "Track 17 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_18",
+          "number": 18,
+          "name": "Track 18 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_19",
+          "number": 19,
+          "name": "Track 19 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_20",
+          "number": 20,
+          "name": "Track 20 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_21",
+          "number": 21,
+          "name": "Track 21 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_22",
+          "number": 22,
+          "name": "Track 22 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_23",
+          "number": 23,
+          "name": "Track 23 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_24",
+          "number": 24,
+          "name": "Track 24 — name pending verification"
+        },
+        {
+          "id": "ink_falls_fate_rises_25",
+          "number": 25,
+          "name": "Track 25 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "bloom_beneath_bright_skies",
+      "name": "Bloom Beneath Bright Skies",
+      "version": "v2.9",
+      "cover_url": "asset:cover_bloom_beneath_bright_skies.jpg",
+      "cover_note": "Official in-game Home record artwork supplied by the user",
+      "sort_order": 42,
+      "titles_complete": false,
+      "tracks": [
+        {
+          "id": "bloom_beneath_bright_skies_01",
+          "number": 1,
+          "name": "Track 01 — name pending verification"
+        },
+        {
+          "id": "bloom_beneath_bright_skies_02",
+          "number": 2,
+          "name": "Track 02 — name pending verification"
+        },
+        {
+          "id": "bloom_beneath_bright_skies_03",
+          "number": 3,
+          "name": "Track 03 — name pending verification"
+        },
+        {
+          "id": "bloom_beneath_bright_skies_04",
+          "number": 4,
+          "name": "Track 04 — name pending verification"
+        },
+        {
+          "id": "bloom_beneath_bright_skies_05",
+          "number": 5,
+          "name": "Track 05 — name pending verification"
+        },
+        {
+          "id": "bloom_beneath_bright_skies_06",
+          "number": 6,
+          "name": "Track 06 — name pending verification"
+        },
+        {
+          "id": "bloom_beneath_bright_skies_07",
+          "number": 7,
+          "name": "Track 07 — name pending verification"
+        }
+      ]
+    },
+    {
+      "id": "judgment_golden_feather",
+      "name": "The Feather of Justice",
+      "version": "v2.10",
+      "cover_url": "asset:cover_the_feather_of_justice.jpg",
+      "cover_note": "Official in-game Home record artwork supplied by the user",
+      "tracks": [
+        {
+          "id": "jgf_01",
+          "number": 1,
+          "name": "Where the Golden Feather Fell"
+        },
+        {
+          "id": "jgf_02",
+          "number": 2,
+          "name": "Dust Shrouded Crime"
+        },
+        {
+          "id": "jgf_03",
+          "number": 3,
+          "name": "The Golden City in Celebration"
+        },
+        {
+          "id": "jgf_04",
+          "number": 4,
+          "name": "Dust in the First Light"
+        },
+        {
+          "id": "jgf_05",
+          "number": 5,
+          "name": "Trouble in the City"
+        },
+        {
+          "id": "jgf_06",
+          "number": 6,
+          "name": "Endless Steps"
+        },
+        {
+          "id": "jgf_07",
+          "number": 7,
+          "name": "Swaying Balance"
+        },
+        {
+          "id": "jgf_08",
+          "number": 8,
+          "name": "Trial Across a Millennium"
+        },
+        {
+          "id": "jgf_09",
+          "number": 9,
+          "name": "Eternal Golden Dream"
+        },
+        {
+          "id": "jgf_10",
+          "number": 10,
+          "name": "Perils from an Old Dream"
+        },
+        {
+          "id": "jgf_11",
+          "number": 11,
+          "name": "Gilded Echoes"
+        }
+      ],
+      "sort_order": 43,
+      "titles_complete": true
+    },
+    {
+      "id": "for_child_you_once_were",
+      "name": "For the Child You Once Were",
+      "version": "v2.10–2.11",
+      "cover_url": "asset:cover_for_the_child_you_once_were.jpg",
+      "cover_note": "Official in-game Home record artwork supplied by the user",
+      "sort_order": 44,
+      "titles_complete": true,
+      "tracks": [
+        {
+          "id": "for_child_you_once_were_01",
+          "number": 1,
+          "name": "The Forty-Fourth Sunset"
+        },
+        {
+          "id": "for_child_you_once_were_02",
+          "number": 2,
+          "name": "Along a Star's Path"
+        },
+        {
+          "id": "for_child_you_once_were_03",
+          "number": 3,
+          "name": "I Rule Over Everything"
+        },
+        {
+          "id": "for_child_you_once_were_04",
+          "number": 4,
+          "name": "The Lamplighter"
+        },
+        {
+          "id": "for_child_you_once_were_05",
+          "number": 5,
+          "name": "The Stars and the Bank"
+        },
+        {
+          "id": "for_child_you_once_were_06",
+          "number": 6,
+          "name": "Millions of Such Stars"
+        }
+      ]
+    }
+  ]
+}
